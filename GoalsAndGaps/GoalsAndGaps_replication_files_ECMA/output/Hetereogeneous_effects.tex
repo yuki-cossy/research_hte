@@ -1,0 +1,34 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Heterogeneous treatment effect on the choice of demanding school \label{Hetereogeneouseffects}}
+\begin{tabular}{l*{6}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
+                    &\multicolumn{1}{c}{lictec2}&\multicolumn{1}{c}{lictec2}&\multicolumn{1}{c}{lictec2}&\multicolumn{1}{c}{lictec2}&\multicolumn{1}{c}{lictec2}&\multicolumn{1}{c}{lictec2}\\
+                    &    Coef./SE         &    Coef./SE         &    Coef./SE         &    Coef./SE         &    Coef./SE         &    Coef./SE         \\
+\midrule
+itt                 &       0.019         &       0.013         &       0.024         &       0.041         &       0.085\sym{**} &      -0.004         \\
+                    &     (0.045)         &     (0.065)         &     (0.056)         &     (0.031)         &     (0.041)         &     (0.040)         \\
+High-edu mother* itt&       0.047         &       0.084         &       0.013         &                     &                     &                     \\
+                    &     (0.045)         &     (0.068)         &     (0.053)         &                     &                     &                     \\
+Missing-edu mother* itt&       0.023         &       0.106         &      -0.063         &                     &                     &                     \\
+                    &     (0.073)         &     (0.100)         &     (0.088)         &                     &                     &                     \\
+High-edu mother* itt&       0.000         &       0.000         &       0.000         &                     &                     &                     \\
+                    &         (.)         &         (.)         &         (.)         &                     &                     &                     \\
+educmother\_missing  &      -0.126\sym{***}&      -0.199\sym{***}&      -0.037         &                     &                     &                     \\
+                    &     (0.040)         &     (0.059)         &     (0.047)         &                     &                     &                     \\
+eu\_member\_treat     &                     &                     &                     &       0.038         &       0.017         &       0.063         \\
+                    &                     &                     &                     &     (0.054)         &     (0.082)         &     (0.071)         \\
+eu\_member           &                     &                     &                     &      -0.002         &       0.032         &      -0.046         \\
+                    &                     &                     &                     &     (0.039)         &     (0.061)         &     (0.052)         \\
+Constant            &       0.797\sym{***}&       0.753\sym{***}&       0.837\sym{***}&       0.751\sym{***}&       0.668\sym{***}&       0.835\sym{***}\\
+                    &     (0.021)         &     (0.028)         &     (0.026)         &     (0.021)         &     (0.030)         &     (0.025)         \\
+\midrule
+Obs.                &        1217         &         601         &         616         &        1217         &         601         &         616         \\
+\(R^{2}\)           &       0.027         &       0.049         &       0.010         &       0.004         &       0.012         &       0.002         \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize Robust Standard Errors clustered at school level in parentheses. Controls include generation of immigration, province and }\\
+\multicolumn{7}{l}{\footnotesize second degree polynomial of test score in grade 6.}\\
+\multicolumn{7}{l}{\footnotesize \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}

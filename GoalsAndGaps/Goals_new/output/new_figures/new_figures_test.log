@@ -1,0 +1,863 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  29 JAN 2021 09:15
+entering extended mode
+**./new_figures_test.tex
+(new_figures_test.tex
+LaTeX2e <2018-12-01>
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty
+"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathptmx.s
+ty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ ("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin9.def"
+File: latin9.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.
+sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex
+.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
+.cfg"))
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscap
+e.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.s
+ty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.st
+y"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks18
+\float@box=\box27
+\@float@everytoks=\toks19
+\@floatcapt=\box28
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen111
+))
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks21
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks22
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks23
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace
+.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/a4wide\a4wide.sty
+"
+Package: a4wide 1994/08/30
+ ("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref
+.sty"
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub
+-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub
+-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.
+sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen120
+\Hy@linkcounter=\count105
+\Hy@pagecounter=\count106
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count107
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref
+.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count108
+ ("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen121
+\Fld@menulength=\count109
+\Field@Width=\dimen122
+\Fld@charsize=\dimen123
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count110
+\c@Item=\count111
+\c@Hfootnote=\count112
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.
+def"
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count113
+\c@bookmark@seq@number=\count114
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfil
+echeck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating
+.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count115
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box31
+\rot@mess@toks=\toks25
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/threeparttable\th
+reeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box32
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs
+.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen126
+\lightrulewidth=\dimen127
+\cmidrulewidth=\dimen128
+\belowrulesep=\dimen129
+\belowbottomsep=\dimen130
+\aboverulesep=\dimen131
+\abovetopsep=\dimen132
+\cmidrulesep=\dimen133
+\cmidrulekern=\dimen134
+\defaultaddspace=\dimen135
+\@cmidla=\count116
+\@cmidlb=\count117
+\@aboverulesep=\dimen136
+\@belowrulesep=\dimen137
+\@thisruleclass=\count118
+\@lastruleclass=\count119
+\@thisrulewidth=\dimen138
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\xr-hyper
+.sty"
+Package: xr-hyper 2000/03/22 v6.00beta4 eXternal References (DPC)
+
+
+Package xr-hyper Warning: Load package `hyperref' after `xr-hyper'.
+
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 43.
+Package hyperref Info: Option `breaklinks' set `true' on input line 43.
+ (new_figures_test.aux)
+\openout1 = `new_figures_test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=624.25346pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=54.2025pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen139
+\scratchbox=\box33
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen140
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks27
+)
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 49.
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.
+sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\isd349\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettit
+lestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count126
+)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ (new_figures_test.out) (new_figures_test.out)
+\@outlinefile=\write3
+\openout3 = `new_figures_test.out'.
+
+Package epstopdf Info: Source file: <figure_educationalchoices_f.eps>
+(epstopdf)                    date: 2021-01-27 13:28:43
+(epstopdf)                    size: 24625 bytes
+(epstopdf)             Output file: <figure_educationalchoices_f-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2021-01-28 11:36:09
+(epstopdf)                    size: 8824 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure_educationalchoices_f
+-eps-converted-to.pdf figure_educationalchoices_f.eps>
+(epstopdf)             \includegraphics on input line 52.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./figure_educationalchoices_f-eps-converted-to.p
+df): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure_educationalchoices_f-eps-converted-to.pdf, id=3, 505.89pt x 289.08pt>
+File: figure_educationalchoices_f-eps-converted-to.pdf Graphic file (type pdf)
+<use figure_educationalchoices_f-eps-converted-to.pdf>
+Package pdftex.def Info: figure_educationalchoices_f-eps-converted-to.pdf  used
+ on input line 52.
+(pdftex.def)             Requested size: 505.88875pt x 289.07928pt.
+
+Overfull \hbox (51.48233pt too wide) in paragraph at lines 52--53
+[][] 
+ []
+
+Package epstopdf Info: Source file: <distinvalsi6_f.eps>
+(epstopdf)                    date: 2021-01-28 11:44:48
+(epstopdf)                    size: 31924 bytes
+(epstopdf)             Output file: <distinvalsi6_f-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-01-28 11:46:26
+(epstopdf)                    size: 14121 bytes
+(epstopdf)             Command: <epstopdf --outfile=distinvalsi6_f-eps-converte
+d-to.pdf distinvalsi6_f.eps>
+(epstopdf)             \includegraphics on input line 54.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./distinvalsi6_f-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<distinvalsi6_f-eps-converted-to.pdf, id=4, 397.485pt x 289.08pt>
+File: distinvalsi6_f-eps-converted-to.pdf Graphic file (type pdf)
+<use distinvalsi6_f-eps-converted-to.pdf>
+Package pdftex.def Info: distinvalsi6_f-eps-converted-to.pdf  used on input lin
+e 54.
+(pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
+Package epstopdf Info: Source file: <rdd_top10_f.eps>
+(epstopdf)                    date: 2021-01-28 11:37:56
+(epstopdf)                    size: 32985 bytes
+(epstopdf)             Output file: <rdd_top10_f-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-01-28 11:38:03
+(epstopdf)                    size: 15936 bytes
+(epstopdf)             Command: <epstopdf --outfile=rdd_top10_f-eps-converted-t
+o.pdf rdd_top10_f.eps>
+(epstopdf)             \includegraphics on input line 56.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./rdd_top10_f-eps-converted-to.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<rdd_top10_f-eps-converted-to.pdf, id=5, 578.16pt x 216.81pt>
+File: rdd_top10_f-eps-converted-to.pdf Graphic file (type pdf)
+<use rdd_top10_f-eps-converted-to.pdf>
+Package pdftex.def Info: rdd_top10_f-eps-converted-to.pdf  used on input line 5
+6.
+(pdftex.def)             Requested size: 520.33919pt x 195.12718pt.
+
+Overfull \hbox (65.93277pt too wide) in paragraph at lines 56--57
+[][] 
+ []
+
+[1
+
+{C:/Users/isd349/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure_e
+ducationalchoices_f-eps-converted-to.pdf> <./distinvalsi6_f-eps-converted-to.pd
+f>]
+Package epstopdf Info: Source file: <figure_treatmenteffects_f.eps>
+(epstopdf)                    date: 2021-01-27 13:26:31
+(epstopdf)                    size: 32003 bytes
+(epstopdf)             Output file: <figure_treatmenteffects_f-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2021-01-28 11:36:10
+(epstopdf)                    size: 8535 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure_treatmenteffects_f-e
+ps-converted-to.pdf figure_treatmenteffects_f.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./figure_treatmenteffects_f-eps-converted-to.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure_treatmenteffects_f-eps-converted-to.pdf, id=22, 361.35pt x 289.08pt>
+File: figure_treatmenteffects_f-eps-converted-to.pdf Graphic file (type pdf)
+<use figure_treatmenteffects_f-eps-converted-to.pdf>
+Package pdftex.def Info: figure_treatmenteffects_f-eps-converted-to.pdf  used o
+n input line 58.
+(pdftex.def)             Requested size: 469.75496pt x 375.80394pt.
+
+Overfull \hbox (15.34854pt too wide) in paragraph at lines 58--59
+[][] 
+ []
+
+Package epstopdf Info: Source file: <Figure_heatmap1_f.eps>
+(epstopdf)                    date: 2021-01-27 13:34:09
+(epstopdf)                    size: 177461 bytes
+(epstopdf)             Output file: <Figure_heatmap1_f-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-01-28 11:36:11
+(epstopdf)                    size: 18219 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figure_heatmap1_f-eps-conve
+rted-to.pdf Figure_heatmap1_f.eps>
+(epstopdf)             \includegraphics on input line 60.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Figure_heatmap1_f-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figure_heatmap1_f-eps-converted-to.pdf, id=23, 397.485pt x 289.08pt>
+File: Figure_heatmap1_f-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure_heatmap1_f-eps-converted-to.pdf>
+Package pdftex.def Info: Figure_heatmap1_f-eps-converted-to.pdf  used on input 
+line 60.
+(pdftex.def)             Requested size: 476.97961pt x 346.89426pt.
+
+Overfull \hbox (22.5732pt too wide) in paragraph at lines 60--61
+[][] 
+ []
+
+[2 <./rdd_top10_f-eps-converted-to.pdf> <./figure_treatmenteffects_f-eps-conver
+ted-to.pdf>]
+Package epstopdf Info: Source file: <figure_discontinuity_a_f.eps>
+(epstopdf)                    date: 2021-01-28 11:43:35
+(epstopdf)                    size: 80972 bytes
+(epstopdf)             Output file: <figure_discontinuity_a_f-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2021-01-28 11:43:52
+(epstopdf)                    size: 40358 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure_discontinuity_a_f-ep
+s-converted-to.pdf figure_discontinuity_a_f.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./figure_discontinuity_a_f-eps-converted-to.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure_discontinuity_a_f-eps-converted-to.pdf, id=38, 361.35pt x 361.35pt>
+File: figure_discontinuity_a_f-eps-converted-to.pdf Graphic file (type pdf)
+<use figure_discontinuity_a_f-eps-converted-to.pdf>
+Package pdftex.def Info: figure_discontinuity_a_f-eps-converted-to.pdf  used on
+ input line 62.
+(pdftex.def)             Requested size: 433.61783pt x 433.61783pt.
+[3 <./Figure_heatmap1_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <immigrants_in_education_f.eps>
+(epstopdf)                    date: 2021-01-28 11:47:38
+(epstopdf)                    size: 25351 bytes
+(epstopdf)             Output file: <immigrants_in_education_f-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2021-01-28 11:47:47
+(epstopdf)                    size: 11852 bytes
+(epstopdf)             Command: <epstopdf --outfile=immigrants_in_education_f-e
+ps-converted-to.pdf immigrants_in_education_f.eps>
+(epstopdf)             \includegraphics on input line 64.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./immigrants_in_education_f-eps-converted-to.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<immigrants_in_education_f-eps-converted-to.pdf, id=48, 397.485pt x 289.08pt>
+File: immigrants_in_education_f-eps-converted-to.pdf Graphic file (type pdf)
+<use immigrants_in_education_f-eps-converted-to.pdf>
+Package pdftex.def Info: immigrants_in_education_f-eps-converted-to.pdf  used o
+n input line 64.
+(pdftex.def)             Requested size: 476.97961pt x 346.89426pt.
+
+Overfull \hbox (22.5732pt too wide) in paragraph at lines 64--65
+[][] 
+ []
+
+[4 <./figure_discontinuity_a_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figure_segregation_other_f.eps>
+(epstopdf)                    date: 2021-01-27 13:29:08
+(epstopdf)                    size: 58510 bytes
+(epstopdf)             Output file: <Figure_segregation_other_f-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2021-01-28 11:36:12
+(epstopdf)                    size: 14640 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figure_segregation_other_f-
+eps-converted-to.pdf Figure_segregation_other_f.eps>
+(epstopdf)             \includegraphics on input line 66.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Figure_segregation_other_f-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figure_segregation_other_f-eps-converted-to.pdf, id=59, 216.81pt x 289.08pt>
+File: Figure_segregation_other_f-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure_segregation_other_f-eps-converted-to.pdf>
+Package pdftex.def Info: Figure_segregation_other_f-eps-converted-to.pdf  used 
+on input line 66.
+(pdftex.def)             Requested size: 411.93665pt x 549.24887pt.
+[5 <./immigrants_in_education_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figure_choice_test_f.eps>
+(epstopdf)                    date: 2021-01-27 13:29:35
+(epstopdf)                    size: 14299 bytes
+(epstopdf)             Output file: <Figure_choice_test_f-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-01-28 11:36:13
+(epstopdf)                    size: 6654 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figure_choice_test_f-eps-co
+nverted-to.pdf Figure_choice_test_f.eps>
+(epstopdf)             \includegraphics on input line 68.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Figure_choice_test_f-eps-converted-to.pdf): PD
+F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figure_choice_test_f-eps-converted-to.pdf, id=69, 397.485pt x 289.08pt>
+File: Figure_choice_test_f-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure_choice_test_f-eps-converted-to.pdf>
+Package pdftex.def Info: Figure_choice_test_f-eps-converted-to.pdf  used on inp
+ut line 68.
+(pdftex.def)             Requested size: 476.97961pt x 346.89426pt.
+
+Overfull \hbox (22.5732pt too wide) in paragraph at lines 68--69
+[][] 
+ []
+
+[6 <./Figure_segregation_other_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figure_compliers_f.eps>
+(epstopdf)                    date: 2021-01-27 13:27:31
+(epstopdf)                    size: 46677 bytes
+(epstopdf)             Output file: <Figure_compliers_f-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-01-28 11:36:14
+(epstopdf)                    size: 9589 bytes
+(epstopdf)             Command: <epstopdf --outfile=Figure_compliers_f-eps-conv
+erted-to.pdf Figure_compliers_f.eps>
+(epstopdf)             \includegraphics on input line 70.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Figure_compliers_f-eps-converted-to.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figure_compliers_f-eps-converted-to.pdf, id=80, 289.08pt x 433.62pt>
+File: Figure_compliers_f-eps-converted-to.pdf Graphic file (type pdf)
+<use Figure_compliers_f-eps-converted-to.pdf>
+Package pdftex.def Info: Figure_compliers_f-eps-converted-to.pdf  used on input
+ line 70.
+(pdftex.def)             Requested size: 404.70923pt x 607.06386pt.
+[7 <./Figure_choice_test_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <mccracy_BW_f.eps>
+(epstopdf)                    date: 2021-01-29 09:09:17
+(epstopdf)                    size: 2551739 bytes
+(epstopdf)             Output file: <mccracy_BW_f-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-01-29 09:13:32
+(epstopdf)                    size: 23918 bytes
+(epstopdf)             Command: <epstopdf --outfile=mccracy_BW_f-eps-converted-
+to.pdf mccracy_BW_f.eps>
+(epstopdf)             \includegraphics on input line 72.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./mccracy_BW_f-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<mccracy_BW_f-eps-converted-to.pdf, id=92, 761.84625pt x 554.07pt>
+File: mccracy_BW_f-eps-converted-to.pdf Graphic file (type pdf)
+<use mccracy_BW_f-eps-converted-to.pdf>
+Package pdftex.def Info: mccracy_BW_f-eps-converted-to.pdf  used on input line 
+72.
+(pdftex.def)             Requested size: 457.11128pt x 332.44456pt.
+
+Overfull \hbox (2.70486pt too wide) in paragraph at lines 72--73
+[][] 
+ []
+
+[8 <./Figure_compliers_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figure_distributions_f.eps>
+(epstopdf)                    date: 2021-01-27 13:28:02
+(epstopdf)                    size: 140310 bytes
+(epstopdf)             Output file: <figure_distributions_f-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2021-01-28 11:36:15
+(epstopdf)                    size: 48179 bytes
+(epstopdf)             Command: <epstopdf --outfile=figure_distributions_f-eps-
+converted-to.pdf figure_distributions_f.eps>
+(epstopdf)             \includegraphics on input line 75.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./figure_distributions_f-eps-converted-to.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figure_distributions_f-eps-converted-to.pdf, id=102, 289.08pt x 289.08pt>
+File: figure_distributions_f-eps-converted-to.pdf Graphic file (type pdf)
+<use figure_distributions_f-eps-converted-to.pdf>
+Package pdftex.def Info: figure_distributions_f-eps-converted-to.pdf  used on i
+nput line 75.
+(pdftex.def)             Requested size: 462.52861pt x 462.52861pt.
+
+Overfull \hbox (8.1222pt too wide) in paragraph at lines 75--76
+[][] 
+ []
+
+[9 <./mccracy_BW_f-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <compliance_f.eps>
+(epstopdf)                    date: 2021-01-27 13:29:13
+(epstopdf)                    size: 20888 bytes
+(epstopdf)             Output file: <compliance_f-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-01-28 11:36:15
+(epstopdf)                    size: 6905 bytes
+(epstopdf)             Command: <epstopdf --outfile=compliance_f-eps-converted-
+to.pdf compliance_f.eps>
+(epstopdf)             \includegraphics on input line 77.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./compliance_f-eps-converted-to.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<compliance_f-eps-converted-to.pdf, id=110, 505.89pt x 289.08pt>
+File: compliance_f-eps-converted-to.pdf Graphic file (type pdf)
+<use compliance_f-eps-converted-to.pdf>
+Package pdftex.def Info: compliance_f-eps-converted-to.pdf  used on input line 
+77.
+(pdftex.def)             Requested size: 455.29678pt x 260.16959pt.
+
+Overfull \hbox (0.89037pt too wide) in paragraph at lines 77--78
+[][] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+[10 <./figure_distributions_f-eps-converted-to.pdf>] [11 <./compliance_f-eps-co
+nverted-to.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+ (new_figures_test.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package rerunfilecheck Info: File `new_figures_test.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
+ ) 
+Here is how much of TeX's memory you used:
+ 6924 strings out of 492895
+ 105449 string characters out of 3123269
+ 199442 words of memory out of 3000000
+ 10726 multiletter control sequences out of 15000+200000
+ 5523 words of font info for 17 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,6n,25p,278b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/isd349/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
+c}<C:/Users/isd349/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr
+8a.pfb>
+Output written on new_figures_test.pdf (11 pages, 220791 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

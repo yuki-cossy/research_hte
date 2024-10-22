@@ -1,0 +1,16 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)
+VARIABLES	incontri	incontri_orient	lictec2	fail	motivation	barriers	invalsiIII	recc_lictec2
+								
+RD_Estimate	-5.418**	1.006	-0.0241	-0.0232	-0.143	-0.0203	-1.900	-0.00242
+	(2.413)	(0.936)	(0.0804)	(0.0250)	(0.132)	(0.0901)	(2.654)	(0.113)
+								
+Observations	565	565	565	565	404	404	512	565
+Conventional Std. Err.	2.413	0.936	0.0804	0.0250	0.132	0.0901	2.654	0.113
+Conventional p-value	0.0248	0.283	0.764	0.355	0.279	0.821	0.474	0.983
+Robust p-value	0.828	0.00113	0.846	0.110	0.181	0.797	0.550	0.536
+Order Loc. Poly. (p)	2	2	2	2	2	2	2	2
+Order Bias (q)	3	3	3	3	3	3	3	3
+BW below cutoff	30	30	30	30	30	30	30	30
+BW above cutoff	30	30	30	30	30	30	30	30
+Standard errors in parentheses								
+*** p<0.01, ** p<0.05, * p<0.1								

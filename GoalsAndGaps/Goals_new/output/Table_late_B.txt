@@ -1,0 +1,13 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	All	Males	Female	All	Males	Female
+							
+bonus75	Treatment (75%)	0.067*	0.125**	0.013	-0.020	-0.057*	0.014
+		(0.037)	(0.054)	(0.047)	(0.024)	(0.032)	(0.029)
+Constant	Constant	0.679***	0.641***	0.720***	0.074***	0.101***	0.047
+		(0.038)	(0.050)	(0.049)	(0.027)	(0.028)	(0.043)
+							
+Observations		1,217	601	616	1,217	601	616
+R-squared		0.096	0.095	0.103	0.025	0.037	0.013
+Controls		Yes	Yes	Yes	Yes	Yes	Yes
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

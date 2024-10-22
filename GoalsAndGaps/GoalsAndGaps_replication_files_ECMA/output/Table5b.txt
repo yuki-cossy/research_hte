@@ -1,0 +1,13 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Std Test grade6	Std Test grade6	Teachers' Recc.	Teachers' Recc.
+					
+treat	itt	0.163***	0.001	0.171***	0.074
+		(0.051)	(0.050)	(0.053)	(0.056)
+Constant	Constant	-0.462***	-0.166*	0.284***	0.525***
+		(0.066)	(0.084)	(0.054)	(0.073)
+					
+Observations		520	574	601	616
+R-squared		0.472	0.423	0.166	0.103
+Controls		Yes	Yes	Yes	Yes
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

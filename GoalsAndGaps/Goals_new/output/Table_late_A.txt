@@ -1,0 +1,13 @@
+		(1)	(2)	(3)	(4)	(5)	(6)
+VARIABLES	LABELS	All	Males	Female	All	Males	Female
+							
+meeting	At least one meeting	0.051*	0.094**	0.010	-0.015	-0.043*	0.011
+		(0.028)	(0.041)	(0.036)	(0.018)	(0.024)	(0.022)
+Constant	Constant	0.682***	0.648***	0.720***	0.073***	0.098***	0.047
+		(0.038)	(0.049)	(0.049)	(0.028)	(0.028)	(0.043)
+							
+Observations		1,217	601	616	1,217	601	616
+R-squared		0.087	0.086	0.100	0.018	0.025	0.022
+Controls		Yes	Yes	Yes	Yes	Yes	Yes
+Robust standard errors in parentheses							
+*** p<0.01, ** p<0.05, * p<0.1							

@@ -1,0 +1,13 @@
+		(1)
+VARIABLES	LABELS	All
+		
+treat	itt	-0.001
+		(0.019)
+Constant	Constant	0.100***
+		(0.013)
+		
+Observations		1,217
+R-squared		0.000
+Controls		No
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

@@ -1,0 +1,13 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Aspirations	Aspirations	Barriers	Barriers
+					
+treat	itt	0.312***	0.105	-0.385***	-0.422***
+		(0.102)	(0.090)	(0.121)	(0.101)
+Constant	Constant	-0.345**	0.244*	0.475***	-0.025
+		(0.140)	(0.136)	(0.128)	(0.138)
+					
+Observations		321	366	321	366
+R-squared		0.156	0.110	0.096	0.086
+Controls		Yes	Yes	Yes	Yes
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

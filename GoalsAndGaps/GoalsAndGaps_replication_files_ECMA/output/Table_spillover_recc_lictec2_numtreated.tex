@@ -1,0 +1,29 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Estimation \label{peer\_recc\_lictec2}}
+\begin{tabular}{l*{6}{c}}
+\toprule
+                    &\multicolumn{3}{c}{Italian}                                      &\multicolumn{3}{c}{Immigrants}                                   \\\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}&\multicolumn{1}{c}{(5)}&\multicolumn{1}{c}{(6)}\\
+                    &\multicolumn{1}{c}{All}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Female}&\multicolumn{1}{c}{All}&\multicolumn{1}{c}{Males}&\multicolumn{1}{c}{Female}\\
+                    &    Coef./SE         &    Coef./SE         &    Coef./SE         &    Coef./SE         &    Coef./SE         &    Coef./SE         \\
+\midrule
+EOP Class           &      -0.010         &      -0.001         &      -0.018         &       0.008         &       0.003         &       0.017         \\
+                    &     (0.043)         &     (0.044)         &     (0.046)         &     (0.047)         &     (0.055)         &     (0.061)         \\
+EOP Class*Two or More Program Students&      -0.001         &      -0.019         &       0.016         &       0.036         &      -0.000         &       0.068         \\
+                    &     (0.037)         &     (0.041)         &     (0.043)         &     (0.051)         &     (0.057)         &     (0.072)         \\
+Two or More Program Students&      -0.004         &       0.012         &      -0.018         &      -0.010         &       0.001         &      -0.022         \\
+                    &     (0.027)         &     (0.030)         &     (0.031)         &     (0.036)         &     (0.034)         &     (0.054)         \\
+Constant            &       0.258\sym{*}  &       0.205         &       0.307\sym{*}  &       0.354\sym{**} &       0.332\sym{*}  &       0.388\sym{**} \\
+                    &     (0.152)         &     (0.142)         &     (0.179)         &     (0.138)         &     (0.170)         &     (0.181)         \\
+Controls            &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         &         Yes         \\
+\midrule
+Obs.                &        8429         &        4247         &        4182         &        1308         &         686         &         622         \\
+\(R^{2}\)           &       0.223         &       0.235         &       0.218         &       0.115         &       0.130         &       0.113         \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize Robust Standard Errors clustered at school level in parentheses.}\\
+\multicolumn{7}{l}{\footnotesize Controls include generation of immigration, province and squared test score, class size, school size,}\\
+\multicolumn{7}{l}{\footnotesize percentage of immigrants in the class.}\\
+\multicolumn{7}{l}{\footnotesize \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}
